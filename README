@@ -1,41 +1,34 @@
-This README file contains information on the contents of the meta-raspberrypi-lade layer.
+This README file contains information on the contents of the meta-raspberrypi-custom layer.
 
 Please see the corresponding sections below for details.
 
 Dependencies
 ============
 
-  URI: <first dependency>
-  branch: <branch name>
-
-  URI: <second dependency>
-  branch: <branch name>
-
-  .
-  .
-  .
+  URI: git@github.com:agherzan/meta-raspberrypi.git
+  branch: kirkstone
 
 Patches
 =======
 
-Please submit any patches against the meta-raspberrypi-lade layer to the xxxx mailing list (xxxx@zzzz.org)
+Please submit any patches against the meta-raspberrypi-custom layer to the xxxx mailing list (xxxx@zzzz.org)
 and cc: the maintainer:
 
-Maintainer: XXX YYYYYY <xxx.yyyyyy@zzzzz.com>
+Maintainer: Gergely Szalay <gr.szalay@gmail.com>
 
 Table of Contents
 =================
 
-  I. Adding the meta-raspberrypi-lade layer to your build
+  I. Adding the meta-raspberrypi-custom layer to your build
  II. Misc
 
 
-I. Adding the meta-raspberrypi-lade layer to your build
+I. Adding the meta-raspberrypi-custom layer to your build
 =================================================
 
-Run 'bitbake-layers add-layer meta-raspberrypi-lade'
+Run 'bitbake-layers add-layer meta-raspberrypi-custom'
 
 II. Misc
 ========
 
---- replace with specific information about the meta-raspberrypi-lade layer ---
+--- replace with specific information about the meta-raspberrypi-custom layer ---
